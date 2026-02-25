@@ -1,0 +1,3 @@
+/home/arifcan/vision_course/week03_cpp_segmentation/build/CMakeFiles/rebuild_cache.dir
+/home/arifcan/vision_course/week03_cpp_segmentation/build/CMakeFiles/edit_cache.dir
+/home/arifcan/vision_course/week03_cpp_segmentation/build/CMakeFiles/app.dir
