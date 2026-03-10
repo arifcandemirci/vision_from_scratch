@@ -1,1 +1,14 @@
 vision_plan.txt
+
+# Build çıktıları
+build/
+bin/
+
+# CMake tarafından üretilenler
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# IDE ayarları
+.vscode/
